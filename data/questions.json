@@ -1,0 +1,85 @@
+{
+  "questions": [
+    {
+      "question": "What was the most memorable moment we shared together?",
+      "options": [
+        "Our first date",
+        "The time we traveled together",
+        "When you surprised me on my birthday",
+        "Every moment with you is special"
+      ],
+      "correctAns": 3,
+      "points": 10
+    },
+    {
+      "question": "What's my full name including my nickname?",
+      "options": [
+        "Jerome R. Bulosan -agul",
+        "Jerome R. Bulosan -agulit",
+        "Jerom R. Bulan -agul",
+        "Jerome Bulosan -agul"
+      ],
+      "correctAns": 0,
+      "points": 5
+    },
+    {
+      "question": "What's my favorite food?",
+      "options": ["Adobo", "Sinigang", "Caldereta", "Sinaing na Isda"],
+      "correctAns": 1,
+      "points": 5
+    },
+    {
+      "question": "What's my favorite anime?",
+      "options": ["Jujutsu Kaisen", "One Piece", "Vinland Saga", "Overflow"],
+      "correctAns": 3,
+      "points": 5
+    },
+    {
+      "question": "What's my favorite color?",
+      "options": ["Red", "Blue", "Green", "Black"],
+      "correctAns": 3,
+      "points": 5
+    },
+    {
+      "question": "Where did we first meet?",
+      "options": ["Park", "School", "Cafe", "Mall"],
+      "correctAns": 2,
+      "points": 5
+    },
+    {
+      "question": "What's my favorite movie?",
+      "options": ["Vivamax", "Harry Potter", "Alien", "Titanic"],
+      "correctAns": 0,
+      "points": 5
+    },
+    {
+      "question": "What's my dream job?",
+      "options": [
+        "Software Engineer",
+        "Front-End Developer",
+        "Police",
+        "Quality Assurance"
+      ],
+      "correctAns": 1,
+      "points": 5
+    },
+    {
+      "question": "Why i fall inlove with you",
+      "options": ["Appearance", "Attitude", "Personality", "All of the Above"],
+      "correctAns": 3,
+      "points": 5
+    },
+    {
+      "question": "What's my favorite sport?",
+      "options": ["Basketball", "Soccer", "Tennis", "Swimming"],
+      "correctAns": 0,
+      "points": 5
+    },
+    {
+      "question": "What's my favorite music genre?",
+      "options": ["Pop", "Rock", "Jazz", "Classical", "All of the above"],
+      "correctAns": 3,
+      "points": 5
+    }
+  ]
+}
